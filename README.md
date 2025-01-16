@@ -31,12 +31,12 @@ Here are some of the technologies and tools I work with:
 ![KeimoP's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KeimoP&theme=github)
 
 ## 📝 [Blog](https://main.keimohub.live/blog.html) ✍️
-(Website Temporary)
+- Website Temporary
 
 ## 📂 My Projects
 ![Here you'll find various repositories showcasing my work and interests.]
 
-- [Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white) **Python**
+- ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white) **Python**
 
 ## 🤝 Let's Connect! 🌐
 - LinkedIn: [Keimo Plaas](https://ee.linkedin.com/in/keimo-plaas-0a128b33b)
