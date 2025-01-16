@@ -5,7 +5,7 @@ Hello, I'm **KeimoP** 👨‍💻, a passionate software developer and an open-s
 ## 🌟 About Me
 - 🔭 I’m currently working on **web development** and **AI projects**.
 - 🌱 I'm learning and improving my skills in **JavaScript**, **Python**.
-- 📫 How to reach me: [Email](mailto:keimo@hkhk.edu.ee) | [LinkedIn](https://ee.linkedin.com/in/keimo-plaas-0a128b33b).
+- 📫 How to reach me: [Email](mailto:keimo.plaas22@gmail.com) | [LinkedIn](https://ee.linkedin.com/in/keimo-plaas-0a128b33b).
 - ⚡ Fun fact: I'm a huge fan of **space exploration** and **sci-fi** novels. 🌌📚
 
 ## 🔧 Technologies & Tools I Love 💻🛠️
@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
 ## 📈 My GitHub Activity
 ![KeimoP's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KeimoP&theme=github)
 
-## 📝 [Blog](https://main.keimohub.live/blog.html) ✍️
+## 📝 [Blog](https://keimohub.live/blog.html) ✍️
 - Website Temporary
 
 ## 📂 My Projects
@@ -39,8 +39,11 @@ Here are some of the technologies and tools I work with:
 - **Python** [Repository](https://github.com/KeimoP/python)
 - These are some of my school python learnings from www.metshein.com
 
+- **Website** [Repostiory](https://github.com/KeimoP/KeimoP.github.io)
+- I have create a website for my projects and other stuff.
+
 ## 🤝 Let's Connect! 🌐
 - LinkedIn: [Keimo Plaas](https://ee.linkedin.com/in/keimo-plaas-0a128b33b)
-- Website: [Keimohub](https://main.keimohub.live)
+- Website: [Keimohub](https://keimohub.live)
 
 Thank you for visiting my profile! 😄 Let's create amazing things together! 💪
