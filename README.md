@@ -34,7 +34,7 @@ Here are some of the technologies and tools I work with:
 - Website Temporary
 
 ## 📂 My Projects
-![Here you'll find various repositories showcasing my work and interests.]
+Here you'll find various repositories showcasing my work and interests.
 
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white) **Python**
 
