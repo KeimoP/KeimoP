@@ -30,18 +30,7 @@ Here are some of the technologies and tools I work with:
 ## 📈 My GitHub Activity
 ![KeimoP's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KeimoP&theme=github)
 
-## 📂 Projects I’m Proud Of 💼
-
-### 1. [Covid-19 Tracker](https://github.com/KeimoP/covid-19-tracker) 🦠
-- **Description**: A real-time COVID-19 data tracker built using React and Chart.js.
-- **Technologies Used**: React, JavaScript, Chart.js, Axios
-- **Features**:
-  - Display live data for COVID-19 cases globally 🌍
-  - Interactive charts for visual data representation 📊
-  - Search functionality to view specific countries 🔍
-
-## 📝 Blogs ✍️
-- [My Blog](https://main.keimohub.live/blog.html)
+## 📝 [Blog](https://main.keimohub.live/blog.html) ✍️
 
 ## 🤝 Let's Connect! 🌐
 - LinkedIn: [Keimo Plaas](https://ee.linkedin.com/in/keimo-plaas-0a128b33b)
