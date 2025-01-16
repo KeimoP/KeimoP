@@ -36,7 +36,7 @@ Here are some of the technologies and tools I work with:
 ## 📂 My Projects
 - Here you'll find various repositories showcasing my work and interests.
 
-[**Python**](https://github.com/KeimoP/python)
+- **Python** [Repository](https://github.com/KeimoP/python)
 - These are some of my school python learnings from www.metshein.com
 
 ## 🤝 Let's Connect! 🌐
