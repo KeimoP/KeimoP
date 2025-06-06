@@ -27,9 +27,6 @@ Here are some of the technologies and tools I work with:
 
 ![KeimoP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeimoP&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
-## 📈 My GitHub Activity
-![KeimoP's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KeimoP&theme=github)
-
 ## 📝 [Blog](https://keimohub.live/blog.html) ✍️
 - Website Temporary
 
